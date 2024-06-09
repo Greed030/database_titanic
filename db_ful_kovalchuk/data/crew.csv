@@ -1,0 +1,21 @@
+crew_id,first_name,last_name,role
+1,Isabella,Martinez,Captain
+2,Michael,Williams,Mechanic
+3,Ava,Smith,Medic
+4,James,Davis,Engineer
+5,Sophia,Rodriguez,Radio Operator
+6,Michael,Johnson,Engineer
+7,Michael,Davis,First Officer
+8,Sophia,Brown,Cook
+9,Ava,Garcia,Steward
+10,Emma,Garcia,Steward
+11,Sophia,Rodriguez,Radio Operator
+12,Ava,Williams,Deckhand
+13,William,Davis,Medic
+14,Michael,Johnson,Radio Operator
+15,Michael,Miller,First Officer
+16,James,Miller,Steward
+17,Olivia,Martinez,Steward
+18,Olivia,Davis,Medic
+19,Alexander,Davis,Mechanic
+20,Emma,Davis,Steward

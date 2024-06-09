@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "665b551113e3e781215c14dd"
+  },
+  "crew_id": "1",
+  "first_name": "Isabella",
+  "last_name": "Martinez",
+  "role": "Captain",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58dcd8d90ccac25d4ced"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14de"
+  },
+  "crew_id": "2",
+  "first_name": "Michael",
+  "last_name": "Williams",
+  "role": "Mechanic",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58dcd8d90ccac25d4ced"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14df"
+  },
+  "crew_id": "3",
+  "first_name": "Ava",
+  "last_name": "Smith",
+  "role": "Medic",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58dcd8d90ccac25d4ced"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e0"
+  },
+  "crew_id": "4",
+  "first_name": "James",
+  "last_name": "Davis",
+  "role": "Engineer",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58dcd8d90ccac25d4ced"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e1"
+  },
+  "crew_id": "5",
+  "first_name": "Sophia",
+  "last_name": "Rodriguez",
+  "role": "Radio Operator",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58dcd8d90ccac25d4ced"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e2"
+  },
+  "crew_id": "6",
+  "first_name": "Michael",
+  "last_name": "Johnson",
+  "role": "Engineer",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58e9d8d90ccac25d4cee"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e3"
+  },
+  "crew_id": "7",
+  "first_name": "Michael",
+  "last_name": "Davis",
+  "role": "First Officer",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58e9d8d90ccac25d4cee"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e4"
+  },
+  "crew_id": "8",
+  "first_name": "Sophia",
+  "last_name": "Brown",
+  "role": "Cook",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58e9d8d90ccac25d4cee"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e5"
+  },
+  "crew_id": "9",
+  "first_name": "Ava",
+  "last_name": "Garcia",
+  "role": "Steward",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58e9d8d90ccac25d4cee"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e6"
+  },
+  "crew_id": "10",
+  "first_name": "Emma",
+  "last_name": "Garcia",
+  "role": "Steward",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58e9d8d90ccac25d4cee"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e7"
+  },
+  "crew_id": "11",
+  "first_name": "Sophia",
+  "last_name": "Rodriguez",
+  "role": "Radio Operator",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f0d8d90ccac25d4cef"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e8"
+  },
+  "crew_id": "12",
+  "first_name": "Ava",
+  "last_name": "Williams",
+  "role": "Deckhand",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f0d8d90ccac25d4cef"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14e9"
+  },
+  "crew_id": "13",
+  "first_name": "William",
+  "last_name": "Davis",
+  "role": "Medic",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f0d8d90ccac25d4cef"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14ea"
+  },
+  "crew_id": "14",
+  "first_name": "Michael",
+  "last_name": "Johnson",
+  "role": "Radio Operator",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f0d8d90ccac25d4cef"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14eb"
+  },
+  "crew_id": "15",
+  "first_name": "Michael",
+  "last_name": "Miller",
+  "role": "First Officer",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f0d8d90ccac25d4cef"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14ec"
+  },
+  "crew_id": "16",
+  "first_name": "James",
+  "last_name": "Miller",
+  "role": "Steward",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f7d8d90ccac25d4cf0"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14ed"
+  },
+  "crew_id": "17",
+  "first_name": "Olivia",
+  "last_name": "Martinez",
+  "role": "Steward",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f7d8d90ccac25d4cf0"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14ee"
+  },
+  "crew_id": "18",
+  "first_name": "Olivia",
+  "last_name": "Davis",
+  "role": "Medic",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f7d8d90ccac25d4cf0"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14ef"
+  },
+  "crew_id": "19",
+  "first_name": "Alexander",
+  "last_name": "Davis",
+  "role": "Mechanic",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f7d8d90ccac25d4cf0"
+  }
+},
+{
+  "_id": {
+    "$oid": "665b551213e3e781215c14f0"
+  },
+  "crew_id": "20",
+  "first_name": "Emma",
+  "last_name": "Davis",
+  "role": "Steward",
+  "assignedboat_id": {
+    "$oid": "665b56cbd8d90ccac25d4ccf"
+  },
+  "cabin": {
+    "$oid": "665b58f7d8d90ccac25d4cf0"
+  }
+}]
